@@ -1,5 +1,6 @@
 package aynimi;
 import java.util.Scanner;
+//burada girilen metinin düz ve tersten okunuslarının aynı olup olmadıgını kontrol ediyoruz
 public class AyniMi{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
